@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T09:10:50.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="khshUi66jdHX9J3zwVF4" version="14.9.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-27T10:14:20.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="s6Dlx17DCW523Q0tdo6Y" version="14.9.8" type="github" pages="3">
   <diagram id="VKosUYGvFi4gm1LEwZWU" name="Page-1">
-    <mxGraphModel dx="2069" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,9 @@
             <mxPoint x="-210" y="980" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RKgU0k6p4mh988SLXdR_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/icocentre-free-icons/137/f-check_256-128.png" vertex="1" parent="1">
+          <mxGeometry x="-479" y="350" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
